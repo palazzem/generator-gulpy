@@ -2,7 +2,7 @@
   "name": "generator-gulpy",
   "version": "0.0.0",
   "description": "Yeoman generator",
-  "license": "BSD-2",
+  "license": "BSD-2-Clause",
   "main": "app/index.js",
   "repository": "palazzem/generator-gulpy",
   "author": {
